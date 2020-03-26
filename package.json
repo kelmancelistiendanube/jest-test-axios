@@ -24,5 +24,9 @@
   "homepage": "https://github.com/kelmancelistiendanube/jest-test-axios#readme",
   "devDependencies": {
     "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "jest": "^25.2.0"
   }
 }
