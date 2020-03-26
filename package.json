@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/kelmancelistiendanube/jest-test-axios#readme",
   "devDependencies": {
+    "jest-mock-axios": "^3.2.0",
     "nodemon": "^2.0.2"
   },
   "dependencies": {
