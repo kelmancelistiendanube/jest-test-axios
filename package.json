@@ -4,6 +4,7 @@
   "description": "try test axios with jest",
   "main": "index.js",
   "scripts": {
+    "start": "nodemon index",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -20,5 +21,8 @@
   "bugs": {
     "url": "https://github.com/kelmancelistiendanube/jest-test-axios/issues"
   },
-  "homepage": "https://github.com/kelmancelistiendanube/jest-test-axios#readme"
+  "homepage": "https://github.com/kelmancelistiendanube/jest-test-axios#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
 }
